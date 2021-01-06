@@ -7,7 +7,7 @@ int main(void) {
 	
 	
 	MineSweeper a;
-	cout << "201711384 ±èÁØ¿ì" << endl;
+	cout << "201711384 ê¹€ì¤€ìš°" << endl;
 	a.play();
 
 	return 0;
